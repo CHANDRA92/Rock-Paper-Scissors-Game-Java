@@ -25,9 +25,9 @@ public class RPS {
            }
             //System.out.println(rand);
 
-            System.out.println("Enter 1 for Rock");
-            System.out.println("Enter 2 for Paper");
-            System.out.println("Enter 3 for Scissors");
+            System.out.println("Enter 1 for Rock : ");
+            System.out.println("Enter 2 for Paper : ");
+            System.out.println("Enter 3 for Scissors : ");
             System.out.println("ROUND : "+i);
             int u = sc.nextInt();
 
